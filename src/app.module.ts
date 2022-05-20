@@ -15,9 +15,9 @@ const SYNC:boolean = true;
 
 const dbConfig: TypeOrmModuleOptions = {
   url: process.env.DATABASE_URL,
-  // ssl: {
-  //   rejectUnauthorized: true,
-  // },
+  ssl: {
+    rejectUnauthorized: false,
+  },
   type: 'postgres',
   entities: [
     Container,
