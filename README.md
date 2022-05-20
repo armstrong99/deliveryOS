@@ -1,9 +1,14 @@
 <p align="center">
-  <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo_text.svg" width="320" alt="Nest Logo" /></a>
+  <a href="http://nestjs.com/" target="blank">
+  <img src="https://nestjs.com/img/logo_text.svg" width="320" alt="Nest Logo" />
+  <img src="https://avatars.githubusercontent.com/u/45592976?v=4" width="320" alt="Ndukwe Armstrong" />
+  </a>
 </p>
 
 [circleci-image]: https://img.shields.io/circleci/build/github/nestjs/nest/master?token=abc123def456
 [circleci-url]: https://circleci.com/gh/nestjs/nest
+
+  <p align="center">Ndukwe Armstrong(Backend Engineer)</p>
 
   <p align="center">A progressive <a href="http://nodejs.org" target="_blank">Node.js</a> framework for building efficient and scalable server-side applications.</p>
     <p align="center">
