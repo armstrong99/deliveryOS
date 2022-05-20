@@ -1,0 +1,9 @@
+{
+  "type": "postgres",
+  "username": "deliveryOS",
+  "password": "password",
+  "entities": ["src/entities/**/*.ts"],
+  "migrations": ["src/migration/**/*.ts"],
+  "cli": { "entitiesDir": "src/entities", "migrationsDir": "src/migration" },
+  "ssl": { "rejectUnauthorized": false }
+}
